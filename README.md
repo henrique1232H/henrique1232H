@@ -8,5 +8,3 @@ About me:-
 - 🤔 I’m looking for help with NodeJS,ReactJs and SQL
 - 😄 Pronouns: He,Him
 - ⚡ Fun fact: I play guitar and i love Bossa nova
-- 
-
