@@ -1,6 +1,6 @@
 ### Hi, my name is Henrique Cardoso de Oliveira 👋
 
-About me:-
+About me:
 
 - Junior programmer
 - 🔭 I’m currently working at Smiles, Mathex
