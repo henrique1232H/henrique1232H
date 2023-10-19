@@ -3,7 +3,6 @@
 About me:
 
 - Junior programmer
-- 🔭 I’m currently working at Smiles, Mathex
 - 🌱 I’m currently learning ReactJS, JS, CSS, NodeJs, SQL
 - 🤔 I’m looking for help with NodeJS,ReactJs and SQL
 - 😄 Pronouns: He,Him
