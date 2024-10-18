@@ -1,8 +1,8 @@
 # Hi, my name is Henrique! 👋
 
 - Junior programmer
-- 🌱 I’m currently learning ReactJS, JS, CSS, NodeJs, SQL
-- 🤔 I’m looking for help with NodeJS,ReactJs and SQL
+- 🌱 I’m currently learning ReactJS, NodeJs
+- 🤔 I’m looking for help with NodeJS,ReactJs
 - 😄 Pronouns: He,Him
 - ⚡ Fun fact: I play guitar and love Bossa nova
 
